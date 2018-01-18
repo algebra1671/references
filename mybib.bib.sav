@@ -1,5 +1,19 @@
 % Encoding: GBK
 
+@InProceedings{g,
+  author    = {Heng Guo and Mark Jerrum and Jingcheng Liu},
+  title     = {Uniform sampling through the Lovasz local lemma},
+  booktitle = {Proceedings of the 49th Annual {ACM} {SIGACT} Symposium on Theory of Computing, {STOC} 2017, Montreal, QC, Canada, June 19-23, 2017},
+  year      = {2017},
+  pages     = {342--355},
+  bibsource = {dblp computer science bibliography, http://dblp.org},
+  biburl    = {http://dblp.org/rec/bib/conf/stoc/GuoJ017},
+  crossref  = {DBLP:conf/stoc/2017},
+  doi       = {10.1145/3055399.3055410},
+  timestamp = {Fri, 11 Aug 2017 12:11:05 +0200},
+  url       = {http://doi.acm.org/10.1145/3055399.3055410},
+}
+
 
 @Book{AB2009,
   Title                    = {Computational Complexity: A Modern Approach},
@@ -1062,7 +1076,7 @@
   Timestamp                = {2015.12.26}
 }
 
-@Article{F,
+@Article{FJ2015,
   author    = {John Faben and Mark Jerrum},
   title     = {The Complexity of Parity Graph Homomorphism: An Initial Investigation},
   journal   = {Theory of Computing},
