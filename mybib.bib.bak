@@ -1,0 +1,1067 @@
+% This file was created with JabRef 2.10.
+% Encoding: GBK
+
+
+@Book{AB2009,
+  Title                    = {Computational Complexity: A Modern Approach},
+  Author                   = {Sanjeev Arora and Boaz Barak},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2009},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.09.17}
+}
+
+@InProceedings{Backens2017,
+  Title                    = {A New Holant Dichotomy Inspired by Quantum Computation},
+  Author                   = {Miriam Backens},
+  Booktitle                = {44th International Colloquium on Automata, Languages,and Programming, {ICALP} 2017},
+  Year                     = {2017},
+  Pages                    = {16:1--16:14},
+
+  Doi                      = {10.4230/LIPIcs.ICALP.2017.16}
+}
+
+@Article{Backens2017a,
+  Title                    = {A complete dichotomy for complex-valued {H}olant{$^c$}},
+  Author                   = {Miriam Backens},
+  Journal                  = {CoRR},
+  Year                     = {2017},
+  Volume                   = {abs/1704.05798}
+}
+
+@Article{Bulatov2013,
+  Title                    = {The complexity of the counting constraint satisfaction problem},
+  Author                   = {Andrei A. Bulatov},
+  Journal                  = {J. {ACM}},
+  Year                     = {2013},
+  Number                   = {5},
+  Pages                    = {34},
+  Volume                   = {60},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2016.10.15}
+}
+
+@InProceedings{Bulatov2008,
+  Title                    = {The complexity of the counting constraint satisfaction problem},
+  Author                   = {Andrei A. Bulatov},
+  Booktitle                = {Proceedings of {ICALP}},
+  Year                     = {2008},
+  Pages                    = {646--661},
+  Publisher                = {Springer},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.22}
+}
+
+@Article{Bulatov2006,
+  Title                    = {A dichotomy theorem for constraint satisfaction problems on a 3-element set},
+  Author                   = {Andrei A. Bulatov},
+  Journal                  = {J. {ACM}},
+  Year                     = {2006},
+  Number                   = {1},
+  Pages                    = {66--120},
+  Volume                   = {53},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.28}
+}
+
+@Article{BD2007,
+  Title                    = {Towards a dichotomy theorem for the counting constraint satisfaction problem},
+  Author                   = {Andrei A. Bulatov and V\'{i}ctor Dalmau},
+  Journal                  = {Inf. Comput.},
+  Year                     = {2007},
+  Number                   = {5},
+  Pages                    = {651--678},
+  Volume                   = {205},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.22}
+}
+
+@Article{BDGJJR2012,
+  Title                    = {The complexity of weighted and unweighted {\#}{CSP}},
+  Author                   = {Andrei A. Bulatov and
+ Martin E. Dyer and
+ Leslie A. Goldberg and
+ Markus Jalsenius and
+ Mark Jerrum and
+ David Richerby},
+  Journal                  = {J. Comput. Syst. Sci.},
+  Year                     = {2012},
+  Number                   = {2},
+  Pages                    = {681--688},
+  Volume                   = {78},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2016.10.24}
+}
+
+@Article{BDGJR2009,
+  Title                    = {The complexity of weighted {B}oolean {\#}{CSP} with mixed signs},
+  Author                   = {Andrei A. Bulatov and Martin E. Dyer and Leslie A. Goldberg and Markus Jalsenius and David Richerby},
+  Journal                  = {Theor. Comput. Sci.},
+  Year                     = {2009},
+  Number                   = {38-40},
+  Pages                    = {3949--3961},
+  Volume                   = {410},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.23}
+}
+
+@Article{BG2005,
+  Title                    = {The complexity of partition functions},
+  Author                   = {Andrei A. Bulatov and Martin Grohe},
+  Journal                  = {Theor. Comput. Sci.},
+  Year                     = {2005},
+  Number                   = {2},
+  Pages                    = {148--186},
+  Volume                   = {348},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.22}
+}
+
+@InProceedings{CC2012,
+  Title                    = {Complexity of counting {CSP} with complex weights},
+  Author                   = {Jin{-}Yi Cai and Xi Chen},
+  Booktitle                = {Proceedings of the 44th Symposium on Theory of Computing Conference,
+{STOC} 2012},
+  Year                     = {2012},
+  Pages                    = {909--920},
+
+  Doi                      = {10.1145/2213977.2214059}
+}
+
+@Article{CC2017,
+  Title                    = {Complexity of Counting {CSP} with Complex Weights},
+  Author                   = {Jin-Yi Cai and Xi Chen},
+  Journal                  = {J. {ACM}},
+  Year                     = {2017},
+  Number                   = {3},
+  Pages                    = {19:1--19:39},
+  Volume                   = {64},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2017.11.19}
+}
+
+@Book{CC2015,
+  Title                    = {Complexity Dichotomies for Counting Problems},
+  Author                   = {Jin-Yi Cai and Xi Chen},
+  Year                     = {2015},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.09.17}
+}
+
+@InProceedings{CC2010,
+  Title                    = {A Decidable Dichotomy Theorem on Directed Graph Homomorphisms with Non-negative Weights},
+  Author                   = {Jin-Yi Cai and Xi Chen},
+  Booktitle                = {Proceedings of 51th Annual {IEEE} Symposium on Foundations of Computer Science},
+  Year                     = {2010},
+  Pages                    = {437--446},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2016.10.16}
+}
+
+@Article{CCL2016,
+  Title                    = {Nonnegative Weighted {\#}{CSP}: An Effective Complexity Dichotomy},
+  Author                   = {Jin-Yi Cai and Xi Chen and Pinyan Lu},
+  Journal                  = {{SIAM} J. Comput.},
+  Year                     = {2016},
+  Number                   = {6},
+  Pages                    = {2177--2198},
+  Volume                   = {45},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2017.05.18}
+}
+
+@Article{CCL2013,
+  Title                    = {Graph Homomorphisms with Complex Values: {A} Dichotomy Theorem},
+  Author                   = {Jin-Yi Cai and Xi Chen and Pinyan Lu},
+  Journal                  = {{SIAM} J. Comput.},
+  Year                     = {2013},
+  Number                   = {3},
+  Pages                    = {934--1029},
+  Volume                   = {42},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.22}
+}
+
+@InProceedings{CCL2011,
+  Title                    = {Non-negatively weighted {\#}{CSP}: An effective complexity dichotomy},
+  Author                   = {Jin-Yi Cai and Xi Chen and Pinyan Lu},
+  Booktitle                = {Proceedings of the 26th Annual {IEEE} Conference on Computational Complexity},
+  Year                     = {2011},
+  Pages                    = {45--54},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2016.07.17}
+}
+
+@Article{CCL2011full,
+  Title                    = {Non-negative Weighted {\#}{CSP}s: An Effective Complexity Dichotomy},
+  Author                   = {Jin-Yi Cai and Xi Chen and Pinyan Lu},
+  Journal                  = {CoRR},
+  Year                     = {2010},
+  Volume                   = {abs/1012.5659},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2016.10.25}
+}
+
+@Article{CC2007,
+  Title                    = {Valiant's Holant Theorem and matchgate tensors},
+  Author                   = {Cai, Jin-Yi and Choudhary, Vinay},
+  Journal                  = {Theor. Comput. Sci.},
+  Year                     = {2007},
+  Number                   = {1},
+  Pages                    = {22--32},
+  Volume                   = {384},
+
+  Booktitle                = {Theor. Comput. Sci.},
+  Numpages                 = {14}
+}
+
+@InProceedings{CC2006,
+  Title                    = {Some results on matchgates and holographic algorithms},
+  Author                   = {Jin-Yi Cai and V. Choudhary},
+  Booktitle                = {Proceedings of {ICALP}},
+  Year                     = {2006},
+  Pages                    = {703--714},
+  Publisher                = {Springer}
+}
+
+@Article{CC2006a,
+  Title                    = {On the theory of matchgate computations},
+  Author                   = {Jin-Yi Cai and Vinay Choudhary},
+  Journal                  = {ECCC},
+  Year                     = {2006},
+  Number                   = {018}
+}
+
+@InProceedings{CF2017,
+  Title                    = {Holographic algorithm with matchgates is universal for planar {\#}{CSP} over boolean domain},
+  Author                   = {Jin-Yi Cai and Zhiguo Fu},
+  Booktitle                = {Proceedings of the 49th Annual {ACM} {SIGACT} Symposium on Theory of Computing},
+  Year                     = {2017},
+  Note                     = {The full version is available at https://arxiv.org/abs/1603.07046},
+  Pages                    = {842--855},
+
+  Doi                      = {10.1145/3055399.3055405},
+  Owner                    = {Joblin},
+  Timestamp                = {2017.11.19}
+}
+
+@Article{CF2014,
+  Title                    = {A collapse theorem for holographic algorithms with matchgates on domain size at most 4},
+  Author                   = {Jin-Yi Cai and Zhiguo Fu},
+  Journal                  = {Inf. Comput.},
+  Year                     = {2014},
+  Pages                    = {149--169},
+  Volume                   = {239},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.25}
+}
+
+@InProceedings{CFGW2015,
+  Title                    = {A {H}olant Dichotomy: Is the {FKT} Algorithm Universal?},
+  Author                   = {Jin-Yi Cai and Zhiguo Fu and Heng Guo and Tyson Williams},
+  Booktitle                = {{IEEE} 56th Annual Symposium on Foundations of Computer Science},
+  Year                     = {2015},
+  Pages                    = {1259--1276},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.23}
+}
+
+@Article{CG2014,
+  Title                    = {Matchgates Revisited},
+  Author                   = {Jin-Yi Cai and Aaron Gorenstein},
+  Journal                  = {Theory of Computing},
+  Year                     = {2014},
+  Pages                    = {167--197},
+  Volume                   = {10},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.25}
+}
+
+@Article{CGW2016,
+  Title                    = {A Complete Dichotomy Rises from the Capture of Vanishing Signatures},
+  Author                   = {Jin-Yi Cai and Heng Guo and Tyson Williams},
+  Journal                  = {{SIAM} J. Comput.},
+  Year                     = {2016},
+  Number                   = {5},
+  Pages                    = {1671--1728},
+  Volume                   = {45}
+}
+
+@InProceedings{CGW2014,
+  Title                    = {Holographic Algorithms Beyond Matchgates},
+  Author                   = {Jin-Yi Cai and Heng Guo and Tyson Williams},
+  Booktitle                = {Proceedings of ICALP},
+  Year                     = {2014},
+  Pages                    = {271--282},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.23}
+}
+
+@InProceedings{CGW2014a,
+  Title                    = {The Complexity of Counting Edge Colorings and a Dichotomy for Some Higher Domain {H}olant Problems},
+  Author                   = {Jin-Yi Cai and Heng Guo and Tyson Williams},
+  Booktitle                = {55th {IEEE} Annual Symposium on Foundations of Computer Science},
+  Year                     = {2014},
+  Pages                    = {601--610},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.28}
+}
+
+@InProceedings{CGW2013,
+  Title                    = {A Complete Dichotomy Rises from the Capture of Vanishing Signatures: Extended Abstract},
+  Author                   = {Jin-Yi Cai and Heng Guo and Tyson Williams},
+  Booktitle                = {Proceedings of the 45th Annual ACM Symposium on Theory of Computing},
+  Year                     = {2013},
+  Pages                    = {635--644},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.11.28}
+}
+
+@Article{CHL2012,
+  Title                    = {From {H}olant to {\#}{CSP} and Back: Dichotomy for {H}olant{$^c$} Problems},
+  Author                   = {Jin-Yi Cai and Sangxia Huang and Pinyan Lu},
+  Journal                  = {Algorithmica},
+  Year                     = {2012},
+  Number                   = {3},
+  Pages                    = {511--533},
+  Volume                   = {64},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.07.31}
+}
+
+@Article{CK2012,
+  Title                    = {Spin systems on k-regular graphs with complex edge functions},
+  Author                   = {Jin-Yi Cai and Michael Kowalczyk},
+  Journal                  = {Theor. Comput. Sci.},
+  Year                     = {2012},
+  Pages                    = {2--16},
+  Volume                   = {461},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.23}
+}
+
+@InProceedings{CKW2012,
+  Title                    = {Gadgets and anti-gadgets leading to a complexity dichotomy},
+  Author                   = {Jin-Yi Cai and Michael Kowalczyk and Tyson Williams},
+  Booktitle                = {Innovations in Theoretical Computer Science},
+  Year                     = {2012},
+  Pages                    = {452--467},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.24}
+}
+
+@Article{CL2011a,
+  Title                    = {Holographic algorithms: {F}rom art to science},
+  Author                   = {Jin-Yi Cai and Pinyan Lu},
+  Journal                  = {J. Comput. Syst. Sci.},
+  Year                     = {2011},
+  Number                   = {1},
+  Pages                    = {41--61},
+  Volume                   = {77},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.06.23}
+}
+
+@Article{CL2011b,
+  Title                    = {Signature Theory in Holographic Algorithms},
+  Author                   = {Jin-Yi Cai and Pinyan Lu},
+  Journal                  = {Algorithmica},
+  Year                     = {2011},
+  Number                   = {4},
+  Pages                    = {779--816},
+  Volume                   = {61},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.06.23}
+}
+
+@Article{CL2010,
+  Title                    = {On symmetric signatures in holographic algorithms},
+  Author                   = {Cai, Jin-Yi and Pinyan Lu},
+  Journal                  = {Theory Comput. Syst.},
+  Year                     = {2010},
+  Number                   = {3},
+  Pages                    = {398--415},
+  Volume                   = {46},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.05.30}
+}
+
+@InProceedings{CL2008a,
+  Title                    = {Holographic algorithms with unsymmetric signatures},
+  Author                   = {Jin-Yi Cai and Pinyan Lu},
+  Booktitle                = {Proceedings of the Nineteenth Annual {ACM-SIAM} Symposium on Discrete Algorithms},
+  Year                     = {2008},
+  Pages                    = {54--63},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.07.03}
+}
+
+@InProceedings{CL2008b,
+  Title                    = {Signature Theory in Holographic Algorithms},
+  Author                   = {Jin-Yi Cai and Pinyan Lu},
+  Booktitle                = {Proceedings of {ISAAC} 2008},
+  Year                     = {2008},
+  Pages                    = {568--579},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.07.03}
+}
+
+@InProceedings{CL2007a,
+  Title                    = {Holographic algorithms: {F}rom art to science},
+  Author                   = {Jin-Yi Cai and Pinyan Lu},
+  Booktitle                = {Proceedings of the 39th Annual {ACM} Symposium on Theory of Computing},
+  Year                     = {2007},
+  Pages                    = {401--410}
+}
+
+@InProceedings{CL2007b,
+  Title                    = {Holographic algorithms: the power of dimensionality resolved},
+  Author                   = {Jin-Yi Cai and P. Lu},
+  Booktitle                = {Automata, Languages and Programming, 34th International Colloquium,
+ {ICALP} 2007, Proceedings},
+  Year                     = {2007},
+  Pages                    = {631--642},
+  Publisher                = {Springer}
+}
+
+@InProceedings{CL2007c,
+  Title                    = {On Symmetric Signatures in Holographic Algorithms},
+  Author                   = {Jin-Yi Cai and Pinyan Lu},
+  Booktitle                = {Proceedings of {STACS} 2007},
+  Year                     = {2007},
+  Pages                    = {429--440},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.07.03}
+}
+
+@InProceedings{CL2007d,
+  Title                    = {Bases Collapse in Holographic Algorithms},
+  Author                   = {Jin-Yi Cai and Pinyan Lu},
+  Booktitle                = {22nd Annual {IEEE} Conference on Computational Complexity},
+  Year                     = {2007},
+  Pages                    = {292-304},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.25}
+}
+
+@Article{CLX2017,
+  Title                    = {Dichotomy for Real {H}olant\({}^{\mbox{c}}\) Problems},
+  Author                   = {Jin-Yi Cai and Pinyan Lu and Mingji Xia},
+  Journal                  = {CoRR},
+  Year                     = {2017},
+  Volume                   = {abs/1702.02693}
+}
+
+@Article{CLX2014,
+  Title                    = {The complexity of complex weighted {B}oolean {\#}{CSP}},
+  Author                   = {Jin-Yi Cai and Pinyan Lu and Mingji Xia},
+  Journal                  = {J. Comput. Syst. Sci.},
+  Year                     = {2014},
+  Number                   = {1},
+  Pages                    = {217--236},
+  Volume                   = {80},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.11.09}
+}
+
+@Article{CLX2013,
+  Title                    = {Holographic algorithms by {F}ibonacci gates},
+  Author                   = {Jin-Yi Cai and Pinyan Lu and Mingji Xia},
+  Journal                  = {Linear Algebra and its Applications },
+  Year                     = {2013},
+  Number                   = {2},
+  Pages                    = {690 - 707},
+  Volume                   = {438},
+
+  __markedentry            = {[Joblin:6]},
+  ISSN                     = {0024-3795},
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.23}
+}
+
+@InProceedings{CLX2013a,
+  Title                    = {Dichotomy for {H}olant{$^*$} Problems with Domain Size 3},
+  Author                   = {Jin-Yi Cai and Pinyan Lu and Mingji Xia},
+  Booktitle                = {Proceedings of the Twenty-Fourth Annual {ACM-SIAM} Symposium on Discrete Algorithms},
+  Year                     = {2013},
+  Pages                    = {1278--1295},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.28}
+}
+
+@Article{CLX2012,
+  Title                    = {Holographic reduction, interpolation and hardness},
+  Author                   = {Jin-Yi Cai and Pinyan Lu and Mingji Xia},
+  Journal                  = {Computational Complexity},
+  Year                     = {2012},
+  Number                   = {4},
+  Pages                    = {573--604},
+  Volume                   = {21},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2016.01.13}
+}
+
+@Article{CLX2011a,
+  Title                    = {Computational Complexity of {H}olant Problems},
+  Author                   = {Jin-Yi Cai and Pinyan Lu and Mingji Xia},
+  Journal                  = {{SIAM} J. Comput.},
+  Year                     = {2011},
+  Number                   = {4},
+  Pages                    = {1101--1132},
+  Volume                   = {40},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.07.31}
+}
+
+@InProceedings{CLX2011b,
+  Title                    = {Dichotomy for {H}olant{$^*$} Problems of {B}oolean Domain},
+  Author                   = {Jin-Yi Cai and Pinyan Lu and Mingji Xia},
+  Booktitle                = {Proceedings of the Twenty-second Annual ACM-SIAM Symposium on Discrete Algorithms},
+  Year                     = {2011},
+  Pages                    = {1714--1728},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.23}
+}
+
+@InProceedings{CLX2010,
+  Title                    = {Holographic Algorithms with Matchgates Capture Precisely Tractable Planar {{\#}CSP}},
+  Author                   = {Jin-Yi Cai and Pinyan Lu and Mingji Xia},
+  Booktitle                = {Proceedings of 51th Annual {IEEE} Symposium on Foundations of Computer Science},
+  Year                     = {2010},
+  Pages                    = {427--436},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.24}
+}
+
+@InProceedings{CLX2009,
+  Title                    = {Holant problems and counting {CSP}},
+  Author                   = {Jin-Yi Cai and Pinyan Lu and Mingji Xia},
+  Booktitle                = {Proceedings of the 41st Annual {ACM} Symposium on Theory of Computing},
+  Year                     = {2009},
+  Pages                    = {715--724},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.07.17}
+}
+
+@InProceedings{CLX2008,
+  Title                    = {Holographic Algorithms by {F}ibonacci Gates and Holographic Reductions},
+  Author                   = {Jin-Yi Cai and Pinyan Lu and Mingji Xia},
+  Booktitle                = {49th Annual {IEEE} Symposium on Foundations of Computer Science},
+  Year                     = {2008},
+  Pages                    = {644--653},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.07.17}
+}
+
+@InProceedings{Cook1971,
+  Title                    = {The Complexity of theorem-proving procedures},
+  Author                   = {Cook, S. A.},
+  Booktitle                = {Proceedings of the Third Annual {ACM} Symposium on Theory of Computing},
+  Year                     = {1971},
+  Pages                    = {151--158},
+
+  Numpages                 = {8}
+}
+
+@Article{CH1996,
+  Title                    = {Complexity of Generalized Satisfiability Counting Problems},
+  Author                   = {Nadia Creignou and Miki Hermann},
+  Journal                  = {Inf. Comput.},
+  Year                     = {1996},
+  Number                   = {1},
+  Pages                    = {1--12},
+  Volume                   = {125},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.26}
+}
+
+@Article{DGJ2009,
+  Title                    = {The Complexity of Weighted {B}oolean {\#}{CSP}},
+  Author                   = {Martin E. Dyer and Leslie A. Goldberg and Mark Jerrum},
+  Journal                  = {{SIAM} J. Comput.},
+  Year                     = {2009},
+  Number                   = {5},
+  Pages                    = {1970--1986},
+  Volume                   = {38},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.11.28}
+}
+
+@Article{DGP2007,
+  Title                    = {On counting homomorphisms to directed acyclic graphs},
+  Author                   = {Martin E. Dyer and Leslie A. Goldberg and Mike Paterson},
+  Journal                  = {J. {ACM}},
+  Year                     = {2007},
+  Number                   = {6},
+  Volume                   = {54},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2016.10.16}
+}
+
+@Article{DG2000,
+  Title                    = {The complexity of counting graph homomorphisms},
+  Author                   = {Martin E. Dyer and Catherine S. Greenhill},
+  Journal                  = {Random Struct. Algorithms},
+  Year                     = {2000},
+  Number                   = {3-4},
+  Pages                    = {260--289},
+  Volume                   = {17},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2016.10.15}
+}
+
+@Article{DR2013,
+  Title                    = {An Effective Dichotomy for the Counting Constraint Satisfaction Problem},
+  Author                   = {Martin E. Dyer and David Richerby},
+  Journal                  = {{SIAM} J. Comput.},
+  Year                     = {2013},
+  Number                   = {3},
+  Pages                    = {1245--1274},
+  Volume                   = {42}
+}
+
+@InProceedings{DR2011,
+  Title                    = {The {\#}{CSP} Dichotomy is Decidable},
+  Author                   = {Martin E. Dyer and David Richerby},
+  Booktitle                = {28th International Symposium on Theoretical Aspects of Computer Science},
+  Year                     = {2011},
+  Pages                    = {261--272},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.26}
+}
+
+@InProceedings{DR2010,
+  Title                    = {On the complexity of {\#}{CSP}},
+  Author                   = {Martin E. Dyer and David Richerby},
+  Booktitle                = {Proceedings of the 42nd {ACM} Symposium on Theory of Computing},
+  Year                     = {2010},
+  Pages                    = {725--734},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.26}
+}
+
+@Article{FV1998,
+  Title                    = {The Computational Structure of Monotone Monadic {SNP} and Constraint Satisfaction: {A} Study through Datalog and Group Theory},
+  Author                   = {Tom{\'{a}}s Feder and Moshe Y. Vardi},
+  Journal                  = {{SIAM} J. Comput.},
+  Year                     = {1998},
+  Number                   = {1},
+  Pages                    = {57--104},
+  Volume                   = {28},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.26}
+}
+
+@Article{FT1961,
+  Title                    = {Dimer problem in statistical mechanics---an exact result},
+  Author                   = {M. E. Fisher and H. N. V. Temperley},
+  Journal                  = {Philosophical Magazine},
+  Year                     = {1961},
+  Pages                    = {1061--1063},
+  Volume                   = {6},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.22}
+}
+
+@Article{FLS2007,
+  Title                    = {Reflection positivity, rank connectivity, and homomorphism of graphs},
+  Author                   = {Michael Freedman and L{\'a}szl{\'o} Lov{\'a}sz and Alexander Schrijver},
+  Journal                  = {J. Amer. Math. Soc.},
+  Year                     = {2007},
+  Number                   = {1},
+  Pages                    = {37--51},
+  Volume                   = {20},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2016.10.16}
+}
+
+@Article{GGJT2010,
+  Title                    = {A complexity dichotomy for partition functions with mixed signs},
+  Author                   = {Leslie A. Goldberg and Martin Grohe and Mark Jerrum and Marc Thurley},
+  Journal                  = {{SIAM} J. Comput.},
+  Year                     = {2010},
+  Number                   = {7},
+  Pages                    = {3336--3402},
+  Volume                   = {39},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.22}
+}
+
+@Article{GLV2013,
+  Title                    = {The Complexity of Symmetric {B}oolean Parity {H}olant Problems},
+  Author                   = {Heng Guo and Pinyan Lu and Leslie G. Valiant},
+  Journal                  = {{SIAM} J. Comput.},
+  Year                     = {2013},
+  Number                   = {1},
+  Pages                    = {324--356},
+  Volume                   = {42},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.27}
+}
+
+@InProceedings{GW2013,
+  Title                    = {The Complexity of Planar Boolean {{\#}CSP} with Complex Weights},
+  Author                   = {Heng Guo and Tyson Williams},
+  Booktitle                = {Proceedings of ICALP},
+  Year                     = {2013},
+  Pages                    = {516--527},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.24}
+}
+
+@Article{HN1990,
+  Title                    = {On the complexity of {H}-coloring},
+  Author                   = {Pavol Hell and Jaroslav Ne\v{s}et\v{r}il},
+  Journal                  = {J. Comb. Theory Ser. B},
+  Year                     = {1990},
+  Number                   = {1},
+  Pages                    = {92--110},
+  Volume                   = {48},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.22}
+}
+
+@Article{Hoo1991,
+  Title                    = {Analysis of Christofides' Heuristic: Some Paths Are More Difficult Than Cycles},
+  Author                   = {Hoogeveen, J. A.},
+  Journal                  = {Oper. Res. Lett.},
+  Year                     = {1991},
+  Number                   = {5},
+  Pages                    = {291--295},
+  Volume                   = {10},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.06.06}
+}
+
+@Article{HL2016,
+  Title                    = {A Dichotomy for Real Weighted {H}olant Problems},
+  Author                   = {Sangxia Huang and Pinyan Lu},
+  Journal                  = {Computational Complexity},
+  Year                     = {2016},
+  Number                   = {1},
+  Pages                    = {255-304},
+  Volume                   = {25}
+}
+
+@InProceedings{HL2012,
+  Title                    = {A Dichotomy for Real Weighted {H}olant Problems},
+  Author                   = {Sangxia Huang and Pinyan Lu},
+  Booktitle                = {Proceedings of the 27th Conference on Computational Complexity},
+  Year                     = {2012},
+  Pages                    = {96--106},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.23}
+}
+
+@InCollection{Karp1972,
+  Title                    = {Reducibility among combinatorial problems},
+  Author                   = {Karp, R.},
+  Booktitle                = {Complexity of Computer Computations},
+  Publisher                = {Plenum Press},
+  Year                     = {1972},
+  Editor                   = {Miller, R. and Thatcher, J.},
+  Pages                    = {85--103}
+}
+
+@InCollection{Kasteleyn1967,
+  Title                    = {Graph theory and crystal physics},
+  Author                   = {P. W. Kasteleyn},
+  Booktitle                = {Graph Theory and Theoretical Physics},
+  Publisher                = {Academic Press},
+  Year                     = {1967},
+
+  Address                  = {London},
+  Editor                   = {Frank Harary},
+  Pages                    = {43--110},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.05.18}
+}
+
+@Article{Kasteleyn1961,
+  Title                    = {The statistics of dimers on a lattice},
+  Author                   = {P. W. Kasteleyn},
+  Journal                  = {Physica},
+  Year                     = {1961},
+  Pages                    = {1209--1225},
+  Volume                   = {27},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.22}
+}
+
+@PhdThesis{Kowalczyk2010,
+  Title                    = {Dichotomy theorems for Holant problems},
+  Author                   = {Michael Kowalczyk},
+  School                   = {University of Wisconsin---Madison},
+  Year                     = {2010},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.24}
+}
+
+@InProceedings{KC2010,
+  Title                    = {Holant Problems for Regular Graphs with Complex Edge Functions},
+  Author                   = {Michael Kowalczyk and Jin-Yi Cai},
+  Booktitle                = {Proceedings of {STACS} 2010},
+  Year                     = {2010},
+  Pages                    = {525--536},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.11.28}
+}
+
+@Article{Ladner1975,
+  Title                    = {On the Structure of Polynomial Time Reducibility},
+  Author                   = {Richard E. Ladner},
+  Journal                  = {J. {ACM}},
+  Year                     = {1975},
+  Number                   = {1},
+  Pages                    = {155--171},
+  Volume                   = {22},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.26}
+}
+
+@InProceedings{LW2017,
+  Title                    = {The Complexity of {H}olant Problems over {B}oolean Domain with Non-Negative Weights},
+  Author                   = {Jiabao Lin and Hanpin Wang},
+  Booktitle                = {44th International Colloquium on Automata, Languages, and Programming, {ICALP} 2017},
+  Year                     = {2017},
+  Pages                    = {29:1--29:14},
+
+  Doi                      = {10.4230/LIPIcs.ICALP.2017.29},
+  Url                      = {https://doi.org/10.4230/LIPIcs.ICALP.2017.29}
+}
+
+@Article{Lovasz1967,
+  Title                    = {Operations with structures},
+  Author                   = {L\'aszl\'o Lov\'asz},
+  Journal                  = {Acta Math. Hung.},
+  Year                     = {1967},
+  Number                   = {3-4},
+  Pages                    = {321--328},
+  Volume                   = {18},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.22}
+}
+
+@Book{Murota2000,
+  Title                    = {Matrices and Matroids for Systems Analysis},
+  Author                   = {Kazuo Murota},
+  Publisher                = {Springer},
+  Year                     = {2000},
+
+  Address                  = {Berlin},
+
+  Timestamp                = {2015.01.23}
+}
+
+@InProceedings{PSY90,
+  Title                    = {On the Complexity of Local Search},
+  Author                   = {Christos H. Papadimitriou and Alejandro A. Sch{\"{a}}ffer and Mihalis Yannakakis},
+  Booktitle                = {Proceedings of the 22nd Annual {ACM} Symposium on Theory of Computing},
+  Year                     = {1990},
+  Pages                    = {438--445},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.06.06}
+}
+
+@InProceedings{Schaefer1978,
+  Title                    = {The Complexity of Satisfiability Problems},
+  Author                   = {Schaefer, Thomas J.},
+  Booktitle                = {Proceedings of the Tenth Annual ACM Symposium on Theory of Computing},
+  Year                     = {1978},
+  Pages                    = {216--226},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.26}
+}
+
+@Article{Szegedy2007,
+  Title                    = {Edge coloring models and reflection positivity},
+  Author                   = {Szegedy, Bal{\'a}zs},
+  Journal                  = {J. Amer. Math. Soc.},
+  Year                     = {2007},
+  Number                   = {4},
+  Pages                    = {969--988},
+  Volume                   = {20}
+}
+
+@InProceedings{Valiant2010,
+  Title                    = {Some Observations on Holographic Algorithms},
+  Author                   = {Leslie G. Valiant},
+  Booktitle                = {LATIN},
+  Year                     = {2010},
+  Pages                    = {577--590},
+  Volume                   = {6034},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.22}
+}
+
+@Article{Valiant2008,
+  Title                    = {Holographic algorithms},
+  Author                   = {Leslie G. Valiant},
+  Journal                  = {{SIAM} J. Comput.},
+  Year                     = {2008},
+  Number                   = {5},
+  Pages                    = {1565--1594},
+  Volume                   = {37},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.03.29}
+}
+
+@InProceedings{Valiant2006,
+  Title                    = {Accidental algorithms},
+  Author                   = {Leslie G. Valiant},
+  Booktitle                = {Proceedings of 47th Annual {IEEE} Symposium on Foundations of Computer Science},
+  Year                     = {2006},
+  Pages                    = {509--517}
+}
+
+@InProceedings{Valiant2005,
+  Title                    = {Holographic circuits},
+  Author                   = {Leslie G. Valiant},
+  Booktitle                = {Automata, Languages and Programming, 32nd International Colloquium,
+ {ICALP} 2005, Proceedings},
+  Year                     = {2005},
+  Pages                    = {1--15},
+  Publisher                = {Springer}
+}
+
+@InProceedings{Valiant2004,
+  Title                    = {Holographic algorithms (extended abstract)},
+  Author                   = {Leslie G. Valiant},
+  Booktitle                = {Proceedings of 45th Annual {IEEE} Symposium on Foundations of Computer Science},
+  Year                     = {2004},
+  Pages                    = {306--315}
+}
+
+@Article{Valiant2002,
+  Title                    = {Quantum circuits that can be simulated classically in polynomial time},
+  Author                   = {Leslie G. Valiant},
+  Journal                  = {{SIAM} J. Comput.},
+  Year                     = {2002},
+  Number                   = {4},
+  Pages                    = {1229--1254},
+  Volume                   = {31}
+}
+
+@Article{Valiant2002a,
+  Title                    = {Expressiveness of matchgates},
+  Author                   = {Leslie G. Valiant},
+  Journal                  = {Theor. Comput. Sci.},
+  Year                     = {2002},
+  Number                   = {1},
+  Pages                    = {457--471},
+  Volume                   = {289}
+}
+
+@Article{Valiant1979a,
+  Title                    = {The Complexity of Computing the Permanent},
+  Author                   = {Leslie G. Valiant},
+  Journal                  = {Theor. Comput. Sci.},
+  Year                     = {1979},
+  Pages                    = {189--201},
+  Volume                   = {8},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.22}
+}
+
+@Article{Valiant1979b,
+  Title                    = {The Complexity of Enumeration and Reliability Problems},
+  Author                   = {Leslie G. Valiant},
+  Journal                  = {{SIAM} J. Comput.},
+  Year                     = {1979},
+  Number                   = {3},
+  Pages                    = {410--421},
+  Volume                   = {8},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.24}
+}
+
+@Article{XZZ2007,
+  Title                    = {Computational complexity of counting problems on 3-regular planar graphs},
+  Author                   = {M. Xia and P. Zhang and W. Zhao},
+  Journal                  = {Theor. Comput. Sci.},
+  Year                     = {2007},
+  Number                   = {1},
+  Pages                    = {111--125},
+  Volume                   = {384}
+}
+
+@Book{RvBW2006,
+  Title                    = {Handbook of Constraint Programming (Foundations of Artificial Intelligence)},
+  Editor                   = {Francesca Rossi and Peter {van Beek} and Toby Walsh},
+  Publisher                = {Elsevier Science Inc.},
+  Year                     = {2006},
+
+  Address                  = {New York, NY, USA},
+
+  Owner                    = {Joblin},
+  Timestamp                = {2015.12.26}
+}
+
+@comment{jabref-meta: databaseType:bibtex;}
+
