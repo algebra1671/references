@@ -1062,7 +1062,7 @@
   Timestamp                = {2015.12.26}
 }
 
-@Article{F,
+@Article{FJ2015,
   author    = {John Faben and Mark Jerrum},
   title     = {The Complexity of Parity Graph Homomorphism: An Initial Investigation},
   journal   = {Theory of Computing},
@@ -1074,6 +1074,21 @@
   doi       = {10.4086/toc.2015.v011a002},
   timestamp = {Wed, 17 May 2017 14:25:15 +0200},
   url       = {https://doi.org/10.4086/toc.2015.v011a002},
+}
+
+@Article{,
+  author    = {Robin A. Moser and G{\'{a}}bor Tardos},
+  title     = {A constructive proof of the general lov{\'{a}}sz local lemma},
+  journal   = {J. {ACM}},
+  year      = {2010},
+  volume    = {57},
+  number    = {2},
+  pages     = {11:1--11:15},
+  bibsource = {dblp computer science bibliography, http://dblp.org},
+  biburl    = {http://dblp.org/rec/bib/journals/jacm/MoserT10},
+  doi       = {10.1145/1667053.1667060},
+  timestamp = {Sat, 16 Sep 2017 12:03:18 +0200},
+  url       = {http://doi.acm.org/10.1145/1667053.1667060},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
